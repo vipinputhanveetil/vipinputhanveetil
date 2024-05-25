@@ -7,8 +7,8 @@ Skills: AWS / AZURE / GCP / SQL / PYTHON / DATABRICKS
 🔭 My Certifications:<br>
 <a href="https://learn.microsoft.com/en-us/users/vipin-9585/credentials/2d14d739a939da38?ref=https%3A%2F%2Fwww.google.com%2F">Microsoft Azure Data Engineer Associate[View credentials]</a><br>
 <a href="https://google.accredible.com/cbafcec0-7a75-4684-8dca-9d30ea5c9eb3">Google Cloud professional data engineer[View credentials]</a><br>
-<a href="https://google.accredible.com/36a43207-26e1-45fc-8b2b-2c384891c90c">Google Cloud associate cloud engineer[View credentials]</a><be>
-<a href="https://credentials.databricks.com/4f0ad9ff-29d7-4938-b891-9caa34c9c64b#gs.9vpov7"> Databricks Lakehouse Fundamentals[View credentials]</a><be>
+<a href="https://google.accredible.com/36a43207-26e1-45fc-8b2b-2c384891c90c">Google Cloud associate cloud engineer[View credentials]</a><br>
+<a href="https://credentials.databricks.com/4f0ad9ff-29d7-4938-b891-9caa34c9c64b#gs.9vpov7">Databricks Lakehouse Fundamentals[View credentials]</a><br>
 <a href="https://www.credential.net/358081e3-5131-4685-9cd3-276aade4ec44">Google Cloud Digital leader[View credentials]</a><br>
 <a href="https://learn.microsoft.com/en-us/users/vipin-9585/credentials/5d0ff787c729d16d?ref=https%3A%2F%2Fwww.google.com%2F">Microsoft Certified Azure Data Fundamentals[View credentials]</a><br>
 <a href="https://learn.microsoft.com/en-us/users/vipin-9585/credentials/a972be210a27a84a?ref=https%3A%2F%2Fwww.google.com%2F">Microsoft Certified Azure Fundamentals[View credentials]</a><br>
