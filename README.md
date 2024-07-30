@@ -1,10 +1,11 @@
 
 ### Hi there 👋, my name is Vipin
-Highly skilled QA professional with over 10 years of experience in data quality assurance and software testing. Proven ability to design, execute, and automate testing across the entire SDLC (Software Development Life Cycle) utilizing Agile and Waterfall methodologies. Expertise in End-to-End DWBI project testing and experience working in GCP, AWS, and Azure cloud environments. Proficient in SQL and Python scripting for data manipulation and automation.
+Highly skilled Data Test Automation professional with over 10 years of experience in data quality assurance and software testing. Proven ability to design, execute, and automate testing across the entire SDLC (Software Development Life Cycle) utilizing Agile and Waterfall methodologies. Expertise in End-to-End DWBI project testing and experience working in GCP, AWS, and Azure cloud environments. Proficient in SQL and Python scripting for data test automation.
 
-Skills: AWS / AZURE / GCP / SQL / PYTHON / DATABRICKS
+Skills: AWS / AZURE / GCP / SQL / PYTHON / DATABRICKS / SNOWFLAKE / DBT/ DOCKER / KUBERNETES / GITHUB ACTION / AI / GITOPS(ARGO CD)
 
-🔭 My Certifications:<br>
+🔭 My Certifications:<be>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/vipin-9585/9A32FB4D2F8EABA6?sharingId=F27A83AC8E65A4E">Microsoft Ccertified Azure AI Fundamentals[View credentials]</a><br>
 <a href="https://learn.microsoft.com/en-us/users/vipin-9585/credentials/2d14d739a939da38?ref=https%3A%2F%2Fwww.google.com%2F">Microsoft Azure Data Engineer Associate[View credentials]</a><br>
 <a href="https://google.accredible.com/cbafcec0-7a75-4684-8dca-9d30ea5c9eb3">Google Cloud professional data engineer[View credentials]</a><br>
 <a href="https://google.accredible.com/36a43207-26e1-45fc-8b2b-2c384891c90c">Google Cloud associate cloud engineer[View credentials]</a><br>
