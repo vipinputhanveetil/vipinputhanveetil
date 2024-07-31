@@ -5,7 +5,7 @@ Highly skilled Data Test Automation professional with over 10 years of experienc
 Skills: AWS / AZURE / GCP / SQL / PYTHON / DATABRICKS / SNOWFLAKE / DBT/ DOCKER / KUBERNETES / GITHUB ACTION / AI / GITOPS(ARGO CD)
 
 🔭 My Certifications:<br>
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/vipin-9585/9A32FB4D2F8EABA6?sharingId=F27A83AC8E65A4E">Microsoft Ccertified Azure AI Fundamentals[View credentials]</a><br>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/vipin-9585/9A32FB4D2F8EABA6?sharingId=F27A83AC8E65A4E">Microsoft Certified Azure AI Fundamentals[View credentials]</a><br>
 <a href="https://learn.microsoft.com/en-us/users/vipin-9585/credentials/2d14d739a939da38?ref=https%3A%2F%2Fwww.google.com%2F">Microsoft Azure Data Engineer Associate[View credentials]</a><br>
 <a href="https://google.accredible.com/cbafcec0-7a75-4684-8dca-9d30ea5c9eb3">Google Cloud professional data engineer[View credentials]</a><br>
 <a href="https://google.accredible.com/36a43207-26e1-45fc-8b2b-2c384891c90c">Google Cloud associate cloud engineer[View credentials]</a><br>
